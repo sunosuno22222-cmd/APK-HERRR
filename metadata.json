@@ -1,0 +1,6 @@
+{
+  "name": "AI Float Assistant",
+  "description": "Assistente de IA flutuante moderno com captura de tela e chat integrado via Gemini e OpenRouter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

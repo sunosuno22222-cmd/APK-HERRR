@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AI Float Assistant</string>
+    <string name="activate_assistant">Ativar Assistente</string>
+    <string name="overlay_permission_title">Permissão de Sobreposição</string>
+    <string name="overlay_permission_desc">O AI Float Assistant precisa de permissão para exibir o assistente sobre outros aplicativos.</string>
+    <string name="capture_screen">Capturar Tela</string>
+    <string name="send">Enviar</string>
+    <string name="close">Fechar</string>
+    <string name="copy">Copiar</string>
+    <string name="explain_better">Explicar Melhor</string>
+    <string name="summarize">Resumir</string>
+    <string name="copy_all">Copiar Tudo</string>
+    <string name="generate_another">Gerar Outra</string>
+    <string name="loading">Carregando...</string>
+</resources>
